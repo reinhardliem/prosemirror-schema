@@ -52,7 +52,7 @@ export const buildEditor = ({
   }),
   new Plugin({
     props: {
-      attributes: { class: "ProseMirror-woot-style" },
+      attributes: { class: "ProseMirror-techstalla-style" },
     },
   }),
 ];
